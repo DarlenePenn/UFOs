@@ -7,12 +7,12 @@ This project was designed to create a webpage using javascript and html that wil
 ## Results
 The initial table loads with all data visible. Once a specific date is entered, the table will update to show results that only match that specific date. As shown in this example, the date was entered as "1/10/2010" and so the table is only showing results from that date.
 
-![Filtered by Date](../images/date-filtered-jan-10.png)
+![Filtered by Date](/images/date-filtered-jan-10.PNG)
 
 
 In this example, the city has been input as "cleveland", and the results have updated to filter only those sightings matching that specific criteria. 
 
-![Filtered by City](../images/city-filtered-cleveland.png)
+![Filtered by City](/images/city-filtered-cleveland.PNG)
 
 
 ## Summary
