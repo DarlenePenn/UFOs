@@ -14,5 +14,11 @@ In this example, the city has been input as "cleveland", and the results have up
 
 ![Filtered by City](/images/city-filtered-cleveland.PNG)
 
+The webpage has the capability to filter on multiple fields at once, as shown here with a date of "1/1/2010", a city of "el cajon" and a shape of "triangle" selected. 
+
+![Multiple Filters](/images/multiple-filters.PNG)
+
 
 ## Summary
+###This web appliation is useful for sorting through large volumes of data in an interactive way. It has limits, for example the fields are case sensitive and must be input exactly as listed in the dataset. Entering the name "Cleveland" would not bring up any results because it is listed as "cleveland" in the dataset. 
+Future developments should incorporate a dropdown menu for the cities and/or shapes because users may not be aware of what options they can choose from. Another future development would be a message that informs the user "No results found" or a similar error message for instances when no results are available based on the search criteria. 
